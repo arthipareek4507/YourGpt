@@ -24,7 +24,7 @@ YourGPT is a beginner-friendly, rule-based chatbot built using Python. It provid
 
 YourGPT/
 │
-├── frontend/
+├── Frontend/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
